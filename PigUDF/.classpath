@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/home/acadgild/install/pig/pig-0.16.0/pig-0.16.0-core-h1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/acadgild/install/pig/pig-0.16.0/pig-0.16.0-core-h2.jar"/>
+	<classpathentry kind="lib" path="/home/acadgild/Downloads/apache-commons.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/acadgild/Downloads/hadoop-common.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
